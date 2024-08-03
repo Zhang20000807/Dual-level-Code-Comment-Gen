@@ -10,9 +10,11 @@ We manually constructed a high-quality 6.9k Java dataset of <Method, Method Comm
 
 The original dataset can be found at https://huggingface.co/datasets/bigcode/the-stack/tree/main/data/java
 
+The dataset and eval results are too large to upload to GitHub. You can find the complete code and dataset in https://drive.google.com/drive/folders/1Q7v9PkslmcAXynbhlHm_SL1y9Jkf1NaI?usp=sharing
+
 The format of the dual-level code comment data is as follows:
 
-```json
+```
 {
 	id:0
 	repo:"repo_owner/repo_name"
