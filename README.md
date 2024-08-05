@@ -66,5 +66,4 @@ Eval the comment by LLM:
 python s4_eval.py
 ```
 
-![image-20240803175709976](/Users/zhangzhiyang/Library/Application Support/typora-user-images/image-20240803175709976.png)
 
